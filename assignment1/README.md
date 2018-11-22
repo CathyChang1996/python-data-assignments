@@ -16,5 +16,4 @@ Website link:[Billboard The Hot 100](https://www.billboard.com/charts/hot-100)
 ## License
 CC 4.0
 ## Future Work
-Scrape more about lyrics characteristics, genre, tempo(etc.) to find out some pattern about popular music.      
-Take advantage of this website: [Million song dataset](https://labrosa.ee.columbia.edu/millionsong/)
+Scrape more about lyrics characteristics, genre, tempo(etc.) to find out some patterns about popular music.  
